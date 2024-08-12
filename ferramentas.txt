@@ -1,5 +1,8 @@
+Desenvolvimento Web
+2o período, 2024
+
 Python: https://docs.python.org/3/
-    É a linguagem de programação selecionada para desenvolver na web.
+    É a linguagem de programação que vamos usar para abrir um servidor na web.
 Git: https://git-scm.com/doc
     É o Sistema de versionamento do GitHub, que vamos usar para armazenar e atualizar
     nossos arquivos feitos em sala.
