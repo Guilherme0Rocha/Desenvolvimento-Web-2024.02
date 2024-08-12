@@ -1,0 +1,18 @@
+Python: https://docs.python.org/3/
+    É a linguagem de programação selecionada para desenvolver na web.
+Git: https://git-scm.com/doc
+    É o Sistema de versionamento do GitHub, que vamos usar para armazenar e atualizar
+    nossos arquivos feitos em sala.
+VSCode: https://code.visualstudio.com/docs
+    É o editor de texto selecionado para criar, modificar e ler os códigos que nós desenvolvemos.
+SQLite Browser: https://github.com/sqlitebrowser/sqlitebrowser/wiki
+    É um programa que apresenta as databases do SQLite de uma maneira mais fácil para se criar, pesquisar
+    e editar arquivos, o que vamos usar para organizar as databases que vamos implementar em websites que
+    vamos desenvolver.
+
+Google Chrome: https://developer.chrome.com/docs?hl=pt-br
+    Navegador usado para acessar e navegar a web, essencial para o desenvolvimento web.
+Firefox: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox
+    Navegador usado para acessar e navegar a web, essencial para o desenvolvimento web.
+Opera: https://help.opera.com/en/latest/
+    Navegador usado para acessar e navegar a web, essencial para o desenvolvimento web.
