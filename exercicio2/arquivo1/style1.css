@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(-45deg, violet, indigo, blue, green, yellow, orange, red);
+    height: 1080px;
+}
+
+h1 {
+    color: white
+}

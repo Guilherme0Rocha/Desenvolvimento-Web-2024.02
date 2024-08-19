@@ -1,10 +1,13 @@
 body {
     background-color: black;
-    color:white
+    color:white;
 }
 
-p {
-    color: lime
+.rainbow-text {
+    background: linear-gradient(-45deg, violet, indigo, blue, green, yellow, orange, red);
+    background-clip: text;
+    color: transparent;
+    font-size: 40px;
 }
 
 h4 {
