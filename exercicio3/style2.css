@@ -1,0 +1,14 @@
+div {
+    background: linear-gradient(-45deg, violet, indigo, blue, green, yellow, orange, red);
+    color: black;
+}
+
+body {
+    background-color: black;
+    color:white;
+}
+
+span {
+    background: linear-gradient(-45deg, powderblue, blue, darkblue, indigo, purple);
+    color: white;
+}
