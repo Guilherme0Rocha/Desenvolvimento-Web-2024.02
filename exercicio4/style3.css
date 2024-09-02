@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html {
+    font-family: "EB Garamond", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px
+}
+
+body {
+    background-color: black;
+    color:white;
+}
+
+.spanblue {
+    background: linear-gradient(-45deg, powderblue, blue, darkblue, indigo, purple);
+    color: white;
+}
+
+.rainbowdiv {
+    background: linear-gradient(-45deg, violet, indigo, blue, green, yellow, orange, red);
+    color: black;
+}
+
+#maior-titulo {
+    font-size: 3em;
+}
+
+#divfixa {
+    width: 100px;
+    background-color: darkblue;
+    color: slateblue
+}
+
+#divrel {
+    width: 50vw;
+    background-color: slateblue;
+    color:darkblue
+}
+
+#colorspan {
+    color:red;
+    font-weight: bold;
+    background-color: lightblue;
+}
