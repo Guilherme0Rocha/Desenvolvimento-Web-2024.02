@@ -27,16 +27,18 @@ body {
     background-color: rgb(81, 77, 161);
     border-radius: 10px;
     padding: 10px;
-    width: 600px;
+    width: 35rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 10px;
     margin-right: 20px;
+    border: 2px solid black;
 }
 
 img {
     border-radius: 10px;
     width:40%;
+
 }
 
