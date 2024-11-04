@@ -16,6 +16,7 @@
 
 body {
     color:white;
+    font-family: "Nunito";
 }
 
 #container {
@@ -23,7 +24,7 @@ body {
     flex-wrap: wrap;
 }
 
-.card {
+article {
     background-color: rgb(81, 77, 161);
     border-radius: 10px;
     padding: 10px;
