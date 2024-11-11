@@ -64,4 +64,18 @@ window.onload = function () {
 
     console.log(`isso imprime antes`);
 
+    const verificaSenha = ( ) => {
+        const entrada = document.getElementById("senha").value;
+        const senha = 'df132c591533645a2df79d4503325c4a';
+        if (hex_md5(entrada) === senha){
+            sessionStorage.setItem('logado', 'sim');
+            alert('Entrou!');
+        } else {
+            alert('A senha está incorreta!');
+        }
+    }
+
+    document.getElementById('logar').onclick = verificaSenha;
+    document.getElementById('sair').onclick = ( ) => {sessionStorage.removeItem('logado'); alert('Saiu!')}
+
 }
